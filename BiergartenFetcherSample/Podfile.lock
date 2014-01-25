@@ -1,0 +1,17 @@
+PODS:
+  - BiergartenFetcher (0.0.1):
+    - HexColors
+  - HexColors (2.2.1)
+
+DEPENDENCIES:
+  - BiergartenFetcher (from `..`)
+
+EXTERNAL SOURCES:
+  BiergartenFetcher:
+    :path: ..
+
+SPEC CHECKSUMS:
+  BiergartenFetcher: cca70533be59715f1bb7de13e207ce9ce35cc5de
+  HexColors: 3a68db077cd6572a8f7d4aa1add284dd2436a934
+
+COCOAPODS: 0.29.0
