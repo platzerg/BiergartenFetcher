@@ -12,9 +12,9 @@
 #define COCOAPODS_VERSION_MINOR_BiergartenFetcher 0
 #define COCOAPODS_VERSION_PATCH_BiergartenFetcher 1
 
-// HexColors
-#define COCOAPODS_POD_AVAILABLE_HexColors
-#define COCOAPODS_VERSION_MAJOR_HexColors 2
-#define COCOAPODS_VERSION_MINOR_HexColors 2
-#define COCOAPODS_VERSION_PATCH_HexColors 1
+// Reachability
+#define COCOAPODS_POD_AVAILABLE_Reachability
+#define COCOAPODS_VERSION_MAJOR_Reachability 3
+#define COCOAPODS_VERSION_MINOR_Reachability 1
+#define COCOAPODS_VERSION_PATCH_Reachability 1
 

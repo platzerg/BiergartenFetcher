@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8822D464633F410189CCCE8C"
+               BlueprintIdentifier = "431187C94B914C58B4F3ED96"
                BuildableName = "libPods-BiergartenFetcher.a"
                BlueprintName = "Pods-BiergartenFetcher"
                ReferencedContainer = "container:Pods.xcodeproj">
